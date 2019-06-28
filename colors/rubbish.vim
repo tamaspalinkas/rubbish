@@ -15,7 +15,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name="spacecamp"
+let g:colors_name="rubbish"
 
 " ==========================
 " Highlighting Function
